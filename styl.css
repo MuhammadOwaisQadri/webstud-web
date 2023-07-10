@@ -1,0 +1,198 @@
+.b{
+border: 1px solid black;
+background-color: white;
+border-color: whitesmoke;
+}
+ul{
+    display: flex;  
+
+}
+li{
+    margin: 20px;
+    list-style: none;   
+    color: black;  
+}
+img{
+    margin-right: 20px;
+    margin-top: 10px;
+}
+a{
+    font-size: larger;
+    text-decoration: none;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.bu{
+width: 150px;
+height: 50px;
+margin-bottom: px;
+background-color: rgb(5, 5, 129);
+color: white;
+border-radius: 10px;
+cursor: pointer;
+}
+.c{
+    margin-left: 20px;
+    position: relative;
+}
+
+h3{
+    color: gray;
+}
+.e{
+    color: aqua;
+}
+p{
+    color:gray;
+}
+.but{
+    width: 150px;
+    height: 60px;
+    margin-bottom: px;
+    background-color: rgb(5, 5, 129);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+.ex{
+        width: 150px;
+        height: 60px;
+        margin-bottom: px;
+        background-color: white;
+        color: black;
+        border-radius: 10px;    
+        cursor: pointer;
+        margin-left:12px ;
+        }
+
+.im{
+    margin-left: 800px;
+}
+.services{
+    /* background-image: url(https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette_1258-48251.jpg); */
+    background-color: rgb(15, 15, 43);
+
+}
+.sd2{
+    color: white;
+    margin-left: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sd3{
+    width: 170px;
+    height: 53px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 280px;
+    margin-top: 50px;
+    
+    font-weight: bolder;
+    position: relative;
+     
+    }
+
+.sd4{
+    border: 1px solid black;
+    width: 280px;
+    height: 390px;
+    border-radius: 15px;
+    background-color:rgb(54, 54, 65);
+    margin-left: 140px;
+    border-color: rgb(54, 54, 65);
+
+}
+.sd5{
+    color: white;
+    margin-left: 30px ;
+
+ 
+}
+.sd6{
+    margin-left: 30px;
+    width: 130px;
+}
+
+.sd7{
+    margin-left: 30px ;
+}
+.sd8{
+    width: 220px;
+    height: 50px;
+    background-color: rgb(54, 54, 65);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 25px;
+    border-color: aqua;
+    font-weight: bolder;
+    position: relative;
+}
+.sd8:hover{
+    background-color:aqua ;
+}
+.sd9{
+    border: 1px solid black;
+    width: 280px;
+    height: 390px;
+    border-radius: 15px;
+    background-color:rgb(54, 54, 65);
+    margin-left: 60px;
+    border-color: rgb(54, 54, 65);
+}
+.sd10{
+    border: 1px solid black;
+    width: 280px;
+    height: 390px;
+    border-radius: 15px;
+    background-color:rgb(54, 54, 65);
+    margin-left: 140px;
+    border-color: rgb(54, 54, 65);
+    margin-top: 30px;
+}
+.sd11{
+    border: 1px solid black;
+    width: 280px;
+    height: 390px;
+    border-radius: 15px;
+    background-color:rgb(54, 54, 65);
+    margin-left: 60px;
+    border-color: rgb(54, 54, 65);
+    margin-top: 30px;
+}
+
+.sd20{
+    margin-left: 150px;
+    margin-top: 30px;
+
+}
+.sd21{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.sd22{
+    font-size: 50px;
+    font-family: 'IBM Plex Serif', serif;
+
+}
+.sd23{
+    color: black;
+}
+.sd25{
+    font-size: 35px;
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 900;
+}
+.sd26{
+    width: 1000px;
+    height: 1200px;
+    border-style: none;
+    background-color: rgb(13, 13, 127);
+    margin-left: 250px;
+    border-radius: 20px;
+   
+}
+.sd27{
+    color: white;
+}
